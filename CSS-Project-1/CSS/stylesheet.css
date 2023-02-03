@@ -1,0 +1,62 @@
+.BoxStart{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 200%;
+    background-color: black;
+}
+
+.Box1{
+    position:absolute;
+    top: 65px;
+    left: 50px;
+    width: 1350px;
+    height: 400px;
+    background-image: url(../assets/anime.jpeg);
+}
+
+.Box2{
+    position:absolute;
+    top: 500px;
+    left: 50px;
+    width: 1350px;
+    height: 400px;
+    background-image: url(../assets/games.jpeg);
+}
+
+.Box3{
+    position:absolute;
+    top: 1025px;
+    left: 50px;
+    width: 1350px;
+    height: 400px;
+    background-image: url(../assets/sleep.jpeg);
+}
+
+.Box4{
+    position:absolute;
+    top: 500px;
+    left: 0px;
+    width: 1350px;
+    height: 50px; 
+    background-color: black;
+}
+
+.Box5{
+    position:absolute;
+    top: 900px;
+    left: 0px;
+    width: 1350px;
+    height: 50px;
+    background-color: black;
+}
+
+.Box6{
+    position:absolute;
+    top: 1425px;
+    left: 0px;
+    width: 1350px;
+    height: 50px;
+    background-color: black;
+}
